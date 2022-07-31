@@ -1,16 +1,89 @@
-### Hi there 👋
+<h1 id="title"> 👋 Hello < Geeks/ >! I'm Mohsen Rahmati. </h1>
 
-<!--
-**Mohsen-eng74/mohsen-eng74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A **self-taught**, **versatilist**, **precise**, **creative**, **responsible**, and **self-motivated** software engineer.
 
-Here are some ideas to get you started:
+<p align="left">
+    <a href="https://github.com/mohsen-eng74/">
+        <img src="https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white"
+            alt="Github Profile" />
+    </a>
+    <a href="https://linkedin.com/in/mohsen-eng74/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"
+            alt="Linkedin Profile" />
+    </a>
+    <a href="https://discordapp.com/users/848565428309590067/">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white"
+            alt="Discord Profile" />
+    </a>
+    <a href="https://youtube.com/channel/UCIRyLcXXay6U2LMzccSaYow?view_as=subscriber">
+        <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white"
+            alt="YouTube Channel" />
+    </a>
+    <a href="https://stackoverflow.com/users/10599817/">
+        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"
+            alt="Medium Stories" />
+    </a>
+    <a href="https://medium.com/@mohsen.eng74">
+        <img src="https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white"
+            alt="Medium Stories" />
+    </a>
+    <a href="https://github.com/mohsen-eng74?tab=followers">
+        <img alt="GitHub Followers"
+            src="https://img.shields.io/github/followers/mohsen-eng74?style=flat&color=green&logo=github">
+    </a>
+    <a href="https://github.com/mohsen-eng74/">
+        <img src="https://komarev.com/ghpvc/?username=mohsen-eng74" alt="GitHub Views" />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The road to success is littered with many failed attempts and I'm no exception to this rule. A civil engineer who has evolved into a software engineer and is passionate in the IT Industry involving in analytical programming software development and design, testing of web-based and client-server multi-tier applications using **Python**, **Django**, and **Flask** with hands-on experience in **HTML5**, **CSS3**, **JavaScript** and other Backend Technologies. Here is a summary of my experiences:
+
+- **Around 6 years** of experience (from 2009 to 2015) in the IT industry involving **Web Content Writer** and **Co-Founder** of [Mihanlicense](http://web.archive.org/web/*/mihanlicense.com) local genuine software store (Stack: Nginx, cPanel, WordPress, WHMCS, BoxBilling, PHP, HTML5, CSS3, JavaScript).
+
+- Experience as a Python Developer (since 2019) in all stages of the software development lifecycle including `Requirement Analysis`, `Design`, `Development`, `Testing`, `Deployment`, `Maintenance`, and `Documentation` of Enterprise applications using well-known tools and techniques.
+
+- Experience in working closely with user researchers to define features and interaction, leading to high-fidelity mockups of use case scenarios for the design and production team. Also, understands the project scope, identified activities/tasks, task level estimates, schedule, dependencies, and risks at a granular level.
+
+- Experience in analytical programming software development and design, testing web-based and client-server multi-tier applications using **Python**, **Django**, and **Flask** with hands-on experience in **HTML5**, **CSS3**, **JavaScript** and other Backend Technologies including working with various Relational and Non-Relational databases and related Toolkits, Python Web Server Gateway Interfaces, Distributed Task Queue, and so on.
+
+- Experience in reliable high-quality data collection with no restrictions on type and structure, maintaining the data integrity, and processing collected data with various Python numerical and geographical libraries and frameworks.
+
+- Experience in working with Python command line tools and Shell scripting for designing automation frameworks.
+
+- Having hands-on experience in Code Cleaning, Code Debugging, Code Benchmarking, Code Optimization, and Code Refactoring.
+
+# 💻 Technical Skills
+| **Operating Systems** | [![Ubuntu](https://img.shields.io/badge/Ubuntu--orange?style=flat&logo=Ubuntu&logoColor=orange)](https://ubuntu.com/) [![Debian](https://img.shields.io/badge/Debian--maroon?style=flat&logo=Debian&logoColor=maroon)](https://debian.org/) [![Windows](https://img.shields.io/badge/Windows--blue?style=flat&logo=Windows&logoColor=blue)](https://microsoft.com/en-us/windows/) |
+| :--- | :--- |
+| **Programming Languages** | [![Python](https://img.shields.io/badge/Python-Advanced-dodgerblue?style=flat&logo=Python&logoColor=dodgerblue)](https://python.org/) [![Cython](https://img.shields.io/badge/Cython-Intermediate-gold?style=flat&logo=Python&logoColor=gold)](https://cython.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-Novice-gold?style=flat&logo=JavaScript&logoColor=gold)](https://ecma-international.org/publications-and-standards/standards/ecma-262/) [![TypeScript](https://img.shields.io/badge/TypeScript-Novice-white?style=flat&logo=TypeScript&logoColor=white)](https://typescriptlang.org/) [![Rust](https://img.shields.io/badge/Rust-Novice-black?style=flat&logo=Rust&logoColor=black)](https://rust-lang.org/) |
+| **Shells &  Command Languages** | [![Bash](https://img.shields.io/badge/Bash--slategray?style=flat&logo=GNUBash&logoColor=slategray)](https://gnu.org/software/bash/) [![Zsh](https://img.shields.io/badge/Zsh--black?style=flat)](https://zsh.org/) [![PowerShell](https://img.shields.io/badge/PowerShell--darkblue?style=flat&logo=PowerShell&logoColor=darkblue)](https://docs.microsoft.com/en-us/powershell/) |
+| **Other Languages** | [![SQL](https://img.shields.io/badge/SQL--darkblue?style=flat)](https://iso.org/standard/63555.html) [![HTML5](https://img.shields.io/badge/HTML5--orange?style=flat&logo=HTML5&logoColor=orange)](https://w3.org/TR/HTML/) [![CSS3](https://img.shields.io/badge/CSS3--dodgerblue?style=flat&logo=CSS3&logoColor=dodgerblue)](https://w3.org/TR/CSS/) [![XML](https://img.shields.io/badge/XML--darkblue?style=flat)](https://w3.org/TR/XML/) [![JSON](https://img.shields.io/badge/JSON--black?style=flat&logo=JSON&logoColor=black)](https://json.org/) [![GeoJSON](https://img.shields.io/badge/GeoJSON--blue?style=flat&logo=GeoJSON&logoColor=blue)](https://geojson.org/) [![YAML](https://img.shields.io/badge/YAML--darkblue?style=flat)](https://yaml.org/) [![Markdown](https://img.shields.io/badge/Markdown--black?style=flat&logo=Markdown&logoColor=black)](https://daringfireball.net/projects/markdown/) |
+| **Terminal Multiplexers** | [![tmux](https://img.shields.io/badge/tmux--lime?style=flat&logo=tmux&logoColor=lime)](https://github.com/tmux/tmux) [![Windows Terminal](https://img.shields.io/badge/Windows&nbsp;Terminal--slategray?style=flat&logo=WindowsTerminal&logoColor=slategray)](https://github.com/microsoft/terminal/) |
+| **Integrated Development Environments** | [![Visual Studio Code](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code--dodgerblue?style=flat&logo=VisualStudioCode&logoColor=dodgerblue)](https://code.visualstudio.com/) [![Jupyter](https://img.shields.io/badge/Jupyter--orange?style=flat&logo=Jupyter&logoColor=orange)](https://jupyter.org/) |
+| **Version Control Systems** | [![Git](https://img.shields.io/badge/Git--orange?style=flat&logo=Git&logoColor=orange)](https://git-scm.com/) [![Github](https://img.shields.io/badge/Github--white?style=flat&logo=Github&logoColor=white)](https://github.com/) [![GitLab](https://img.shields.io/badge/GitLab--orange?style=flat&logo=GitLab&logoColor=orange)](https://gitlab.com) |
+| **Project Management & Bug Tracking Tools** | [![ClickUp](https://img.shields.io/badge/ClickUp--deeppink?style=flat&logo=ClickUp&logoColor=deeppink)](https://clickup.com/) [![Jira](https://img.shields.io/badge/Jira--dodgerblue?style=flat&logo=Jira&logoColor=dodgerblue)](https://atlassian.com/software/jira/) |
+| **Databases** | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL--blue?style=flat&logo=PostgreSQL&logoColor=blue)](https://postgresql.org/) [![Amazon RDS](https://img.shields.io/badge/Amazon&nbsp;RDS--gold?style=flat&logo=AmazonRDS&logoColor=gold)](https://aws.amazon.com/rds/) [![MySQL](https://img.shields.io/badge/MySQL--orange?style=flat&logo=MySQL&logoColor=orange)](https://mysql.com/) [![MariaDB](https://img.shields.io/badge/MariaDB--sienna?style=flat&logo=MariaDB&logoColor=sienna)](https://mariadb.org/) [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft&nbsp;SQL&nbsp;Server--maroon?style=flat&logo=MicrosoftSQLServer&logoColor=maroon)](https://microsoft.com/en-us/sql-server/) [![Oracle](https://img.shields.io/badge/Oracle--brown?style=flat&logo=Oracle&logoColor=brown)](https://oracle.com/database/) [![SQLite](https://img.shields.io/badge/SQLite--dodgerblue?style=flat&logo=SQLite&logoColor=dodgerblue)](https://sqlite.org/index.html) [![MongoDB](https://img.shields.io/badge/MongoDB--forestgreen?style=flat&logo=MongoDB&logoColor=forestgreen)](https://mongodb.com/) [![Elasticsearch](https://img.shields.io/badge/Elasticsearch--gold?style=flat&logo=Elasticsearch&logoColor=gold)](https://elastic.co/elasticsearch/) [![Redis](https://img.shields.io/badge/Redis--crimson?style=flat&logo=Redis&logoColor=crimson)](https://redis.io/) [![TinyDB](https://img.shields.io/badge/TinyDB--darkcyan?style=flat&logo=TinyDB&logoColor=darkcyan)](https://tinydb.readthedocs.io/) |
+| **Python Development Tools** | [![pyenv](https://img.shields.io/badge/pyenv--darkblue?style=flat)](https://github.com/pyenv/pyenv/) [![Poetry](https://img.shields.io/badge/Poetry--slateblue?style=flat)](https://python-poetry.org/) [![Black](https://img.shields.io/badge/Black--black?style=flat)](https://black.readthedocs.io/) [![isort](https://img.shields.io/badge/isort--orange?style=flat)](https://pycqa.github.io/isort/) [![Bandit](https://img.shields.io/badge/Bandit--yellow?style=flat)](https://bandit.readthedocs.io/) [![Pylint](https://img.shields.io/badge/Pylint--black?style=flat&logo=Python&logoColor=black)](https://pylint.pycqa.org/) [![mypy](https://img.shields.io/badge/mypy--darkblue?style=flat&logo=Python&logoColor=darkblue)](http://mypy-lang.org/) |
+| **Python Web Frameworks** | [![Flask](https://img.shields.io/badge/Flask--black?style=flat&logo=Flask&logoColor=black)](https://flask.palletsprojects.com/) [![FastAPI](https://img.shields.io/badge/FastAPI--teal?style=flat&logo=FastAPI&logoColor=teal)](https://fastapi.tiangolo.com/) [![Django](https://img.shields.io/badge/Django--seagreen?style=flat&logo=Django&logoColor=seagreen)](https://djangoproject.com/) |
+| **Python Template Engines** | [![Jinja2](https://img.shields.io/badge/Jinja2--crimson?style=flat&logo=Jinja&logoColor=crimson)](https://jinja.palletsprojects.com/) [![Django Templates](https://img.shields.io/badge/Django&nbsp;Templates--seagreen?style=flat&logo=Django&logoColor=seagreen)](https://docs.djangoproject.com/en/dev/topics/templates/) |
+| **Python Database Toolkits** | [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy--maroon?style=flat)](https://sqlalchemy.org/) [![Django ORM](https://img.shields.io/badge/Django&nbsp;ORM--seagreen?style=flat&logo=Django&logoColor=seagreen)](https://docs.djangoproject.com/en/dev/topics/db/) [![Alembic](https://img.shields.io/badge/Alembic--maroon?style=flat)](https://alembic.sqlalchemy.org/) [![redis-py](https://img.shields.io/badge/redis&#8211;py--crimson?style=flat&logo=Redis&logoColor=crimson)](https://github.com/redis/redis-py) |
+| **Other Backend Tools & Technologies** | [![Amazon EC2](https://img.shields.io/badge/Amazon&nbsp;EC2--orange?style=flat&logo=AmazonEC2&logoColor=orange)](https://aws.amazon.com/ec2/) [![nginx](https://img.shields.io/badge/nginx--forestgreen?style=flat&logo=nginx&logoColor=forestgreen)](https://nginx.org/) [![Apache](https://img.shields.io/badge/Apache--red?style=flat&logo=Apache&logoColor=red)](https://httpd.apache.org/) [![Gunicorn](https://img.shields.io/badge/Gunicorn--forestgreen?style=flat&logo=Gunicorn&logoColor=forestgreen)](https://gunicorn.org/) [![uvicorn](https://img.shields.io/badge/uvicorn--blue?style=flat)](https://uvicorn.org/) [![crontab](https://img.shields.io/badge/crontab--darkblue?style=flat)](https://man7.org/linux/man-pages/man5/crontab.5.html) [![Celery](https://img.shields.io/badge/Celery--lime?style=flat&logo=Celery&logoColor=lime)](https://docs.celeryq.dev/) [![RabbitMQ](https://img.shields.io/badge/RabbitMQ--coral?style=flat&logo=RabbitMQ&logoColor=coral)](https://rabbitmq.com/) [![gRPC](https://img.shields.io/badge/gRPC--darkcyan?style=flat)](https://grpc.io/) [![marshmallow](https://img.shields.io/badge/marshmallow--black?style=flat)](https://marshmallow.readthedocs.io/) [![Pydantic](https://img.shields.io/badge/Pydantic--deeppink?style=flat)](https://pydantic-docs.helpmanual.io/) [![DBeaver](https://img.shields.io/badge/DBeaver--sienna?style=flat)](https://dbeaver.io/) |
+| **Testing Frameworks** | [![pytest](https://img.shields.io/badge/pytest--dodgerblue?style=flat&logo=pytest&logoColor=dodgerblue)](https://docs.pytest.org/) [![unittest](https://img.shields.io/badge/unittest--gold?style=flat&logo=Python&logoColor=gold)](https://docs.python.org/library/unittest.html) [![Selenium](https://img.shields.io/badge/Selenium--lime?style=flat&logo=Selenium&logoColor=lime)](https://selenium.dev/) |
+| **Documentation Tools & Techniques** | [![Docstring](https://img.shields.io/badge/Docstring--gold?style=flat&logo=Python&logoColor=gold)](https://peps.python.org/pep-0257/) [![MkDocs](https://img.shields.io/badge/MkDocs--dodgerblue?style=flat)](https://mkdocs.org/) [![Sphinx](https://img.shields.io/badge/Sphinx--blue?style=flat)](http://sphinx-doc.org/) [![Swagger](https://img.shields.io/badge/Swagger--lime?style=flat&logo=Swagger&logoColor=lime)](https://swagger.io/) [![Postman](https://img.shields.io/badge/Postman--orange?style=flat&logo=Postman&logoColor=orange)](https://postman.com/) |
+| **Automation Deployment Systems** | [![Docker](https://img.shields.io/badge/Docker--blue?style=flat&logo=Docker&logoColor=blue)](https://docker.com/) [![Docker-compose](https://img.shields.io/badge/docker&#8211;compose--blue?style=flat&logo=Docker&logoColor=blue)](https://docs.docker.com/compose/) [![Kubernetes](https://img.shields.io/badge/Kubernetes--dodgerblue?style=flat&logo=Kubernetes&logoColor=dodgerblue)](https://kubernetes.io/) [![Amazon AWS](https://img.shields.io/badge/Amazon&nbsp;AWS--orange?style=flat&logo=AmazonAWS&logoColor=orange)](https://aws.amazon.com/) |
+| **Application Monitoring & Error Tracking Tools** | [![Sentry](https://img.shields.io/badge/Sentry--black?style=flat&logo=Sentry&logoColor=black)](https://sentry.io/) [![Kibana](https://img.shields.io/badge/Kibana--deeppink?style=flat&logo=Kibana&logoColor=deeppink)](https://elastic.co/kibana/) [![Grafana](https://img.shields.io/badge/Grafana--orange?style=flat&logo=Grafana&logoColor=orange)](https://grafana.com/) [![splunk>](https://img.shields.io/badge/splunk>--black?style=flat&logo=splunk&logoColor=black)](https://splunk.com/) [![Amazon CloudWatch](https://img.shields.io/badge/Amazon&nbsp;CloudWatch--orange?style=flat&logo=AmazonCloudWatch&logoColor=orange)](https://aws.amazon.com/cloudwatch/) |
+| **Python Numerical & Analytical Libraries** | [![SciPy](https://img.shields.io/badge/SciPy--darkblue?style=flat&logo=SciPy&logoColor=darkblue)](https://scipy.org/) [![NumPy](https://img.shields.io/badge/NumPy--dodgerblue?style=flat&logo=NumPy&logoColor=dodgerblue)](https://numpy.org/) [![pandas](https://img.shields.io/badge/pandas--white?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![statsmodels](https://img.shields.io/badge/statsmodels--blue?style=flat)](https://statsmodels.org/) [![SymPy](https://img.shields.io/badge/SymPy--forestgreen?style=flat&logo=SymPy&logoColor=forestgreen)](https://sympy.org/) [![scikit-learn](https://img.shields.io/badge/scikit&#8211;learn--orange?style=flat&logo=scikitlearn)](https://scikit-learn.org/) [![Keras](https://img.shields.io/badge/Kibana--maroon?style=flat&logo=Keras&logoColor=maroon)](https://keras.io/) |
+| **Python Geographical Libraries & Frameworks** | [![GDAL](https://img.shields.io/badge/GDAL--deepskyblue?style=flat)](https://gdal.org) [![Fiona](https://img.shields.io/badge/Fiona--darkblue?style=flat)](https://fiona.readthedocs.io/) [![Shapely](https://img.shields.io/badge/Shapely--darkblue?style=flat)](https://shapely.readthedocs.io/) [![GeoPandas](https://img.shields.io/badge/GeoPandas--forestgreen?style=flat)](https://geopandas.org/) [![pyproj](https://img.shields.io/badge/pyproj--orange?style=flat)](https://pyproj4.github.io/pyproj/) |
+| **Python Visualizations Libraries** | [![Matplotlib](https://img.shields.io/badge/Matplotlib--darkblue?style=flat)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn--blue?style=flat)](https://seaborn.pydata.org/) [![Bokeh](https://img.shields.io/badge/Bokeh--purple?style=flat)](https://bokeh.pydata.org/) [![Plotly](https://img.shields.io/badge/Plotly--white?style=flat&logo=Plotly&logoColor=white)](https://plotly.com/python/) [![NetworkX](https://img.shields.io/badge/NetworkX--orange?style=flat)](https://networkx.github.io/) [![Folium](https://img.shields.io/badge/Folium--forestgreen?style=flat&logo=Folium&logoColor=forestgreen)](https://python-visualization.github.io/folium/) |
+| **Python CLI Tools** | [![click](https://img.shields.io/badge/click--black?style=flat)](https://click.palletsprojects.com/) [![Typer](https://img.shields.io/badge/Typer--black?style=flat)](https://typer.tiangolo.com/) [![argparse](https://img.shields.io/badge/argparse--gold?style=flat&logo=Python&logoColor=gold)](https://docs.python.org/library/argparse.html) |
+| **Python GUI Frameworks**| [![PyQT](https://img.shields.io/badge/PyQT--forestgreen?style=flat&logo=QT&logoColor=forestgreen)](https://riverbankcomputing.com/software/pyqt/) [![tkinter](https://img.shields.io/badge/tkinter--gold?style=flat&logo=Python&logoColor=gold)](https://docs.python.org/library/tkinter.html) |
+
+# 📈 GitHub Statistics
+<p align="center">
+    <a href="#title">
+        <img src="https://raw.githubusercontent.com/mohsen-eng74/github-stats-transparent/output/generated/languages.svg" alt="Languages" />
+    </a>
+    <a href="#title">
+        <img src="https://raw.githubusercontent.com/mohsen-eng74/github-stats-transparent/output/generated/overview.svg" alt="Overview" />
+    </a>
+</p>
